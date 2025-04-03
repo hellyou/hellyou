@@ -4,4 +4,3 @@
 > 
 > **Peace**
 
-   这是他的 [个人主页](https://hellyou.github.io/)
